@@ -42,7 +42,7 @@ p {
     flex-direction: column;
     justify-content: space-between;
     padding: 50px;
-    #e01010 Copy border-radius: 50px;
+    border-radius: 50px;
     background: #e01010;
     box-shadow: inset -5px 5px 9px #a80c0c, inset 5px -5px 9px #ff1414;
 }
