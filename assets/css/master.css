@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: whitesmoke;
+    background-color: #e01010;
 }
 
 label {
@@ -18,8 +18,9 @@ label {
     margin-bottom: 30px;
     padding: 15px;
     border-radius: 50px;
-    background: linear-gradient(225deg, #f0f0f0, #cacaca);
-    box-shadow: -5px 5px 9px #a8a8a8, 5px -5px 9px #ffffff;
+    background: linear-gradient(225deg, #f01111, #ca0e0e);
+    box-shadow: -5px 5px 9px #a80c0c, 5px -5px 9px #ff1414;
+    color: rgb(22, 19, 19);
 }
 
 p {
@@ -28,9 +29,9 @@ p {
     background: #e0e0e0;
     box-shadow: -20px 20px 60px #bebebe, 20px -20px 60px #ffffff;
     border-radius: 50px;
-    background: linear-gradient(225deg, #f0f0f0, #cacaca);
-    box-shadow: -5px 5px 9px #a8a8a8, 5px -5px 9px #ffffff;
-    color: gray;
+    background: linear-gradient(225deg, #f01111, #ca0e0e);
+    box-shadow: -5px 5px 9px #a80c0c, 5px -5px 9px #ff1414;
+    color: rgb(34, 34, 34);
 }
 
 .container {
@@ -41,9 +42,9 @@ p {
     flex-direction: column;
     justify-content: space-between;
     padding: 50px;
-    border-radius: 50px;
-    background: #e0e0e0;
-    box-shadow: inset -5px 5px 9px #a8a8a8, inset 5px -5px 9px #ffffff;
+    #e01010 Copy border-radius: 50px;
+    background: #e01010;
+    box-shadow: inset -5px 5px 9px #a80c0c, inset 5px -5px 9px #ff1414;
 }
 
 .info {
