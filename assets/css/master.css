@@ -10,6 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #e01010;
+    font-family: sans-serif;
 }
 
 label {
