@@ -15,4 +15,4 @@ document.getElementById("cognome").innerHTML = cognome
 document.getElementById("colore").innerHTML = colore
 
 // print
-document.getElementById("print").innerHTML = nome + cognome + colore + "21"
+document.getElementById("print").innerHTML = nome + cognome + colore + "2021"
